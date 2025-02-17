@@ -1,0 +1,8 @@
+apache-airflow-providers-snowflake
+apache-airflow-providers-postgres
+kafka-python
+pandas
+psycopg2
+joblib
+apache-airflow
+apache-airflow-providers-snowflake
